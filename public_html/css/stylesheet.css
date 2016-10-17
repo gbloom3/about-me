@@ -1,0 +1,36 @@
+header {
+	color: #ff1120;
+}
+body{
+	color: green;
+}
+#bee.jpg {
+	height: auto;
+	width: auto;
+	max-width: 300px;
+	max-height: 300px;
+}
+#canyon.jpg {
+	height: auto;
+	width: auto;
+	max-width: 300px;
+	max-height: 300px;
+}
+#dragon.jpg {
+	height: auto;
+	width: auto;
+	max-width: 300px;
+	max-height: 300px;
+}
+#half-rainbow.jpg {
+	height: auto;
+	width: auto;
+	max-width: 300px;
+	max-height: 300px;
+}
+#truff.jpg {
+	height: auto;
+	width: auto;
+	max-width: 300px;
+	max-height: 300px;
+}
