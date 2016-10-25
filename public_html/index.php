@@ -33,11 +33,11 @@
 				<li>Cooking</li>
 		</section>
 		<section>
-			<img class="image" src="img/bee.jpg" alt="Bee on a flower"/>
-			<img class="image" src="img/canyon.jpg" alt="Grand Canyon at dawn"/>
-			<img class="image" src="img/dragon.jpg" alt="David looking at dragon"/>
-			<img class="image" src="img/half-rainbow.jpg" alt="Half a rainbow"/>
-			<img class="image" src="img/truff.jpg" alt="Truffles"/>
+			<img src="img/bee.jpg" alt="Bee on a flower"/>
+			<img src="img/canyon.jpg" alt="Grand Canyon at dawn"/>
+			<img src="img/dragon.jpg" alt="David looking at dragon"/>
+			<img src="img/half-rainbow.jpg" alt="Half a rainbow"/>
+			<img src="img/truff.jpg" alt="Truffles"/>
 		</section>
 	</body>
 </html>
